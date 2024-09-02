@@ -6,8 +6,8 @@ The solution isn't hard, but it will take a bit of work.
 
 TWITTER API Setup
 -------------
-First, head to https://dev.twitter.com, sign in, and authorize the dev app for your account.
-Once you are signed in, create a new app at https://dev.twitter.com/apps
+First, head to https://dev.x.com, sign in, and authorize the dev app for your account.
+Once you are signed in, create a new app at https://dev.x.com/apps
 
 The only thing you actually to do here, is fill out the required fields; App Name, App Description, and Website (I used the URL for my TT-RSS install). Then mark that you've read the TOS, fill in the annoying CAPTCHA, and hit the Create App button.
 
@@ -17,9 +17,9 @@ The things you'll need from this page are Consumer key, Consumer secret, Access 
 
 TWITTER API Limitations
 -------------
-The Twitter API limits to 15 calls per 15 minute time period. If you exceed this threshold, the Twitter returns a "Too Many Requests" error.
-This is a Twitter imposed limitation that I have no control over.
-https://dev.twitter.com/docs/rate-limiting/1.1
+The Twitter API limits to 15 calls per 15 minute time period. If you exceed this threshold, the X (Twitter) returns a "Too Many Requests" error.
+This is a X (Twitter) imposed limitation that I have no control over.
+https://dev.x.com/docs/rate-limiting/1.1
 
 PHP Setup
 -------------
